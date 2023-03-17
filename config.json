@@ -1,0 +1,6 @@
+{
+    "chainId": 1,
+    "compromisedWalletAddress": "0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045",
+    "compromisedWalletPrivateKey": "ade0eb81415176a658b711e19ef36b1e181564f2c2fdd2227d8c0144ef960e45",
+    "safeWalletAddress": "0x7927B66B4bA7CA476DF41cD73b77685D9c95Fbf6"
+}
