@@ -4,7 +4,8 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![GPL-3.0][license-shield]][license-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <!-- ABOUT THE PROJECT -->
@@ -28,6 +29,7 @@ In order to run this tool, you need to download Python 3.10. Python is maybe THE
 Download & Install Python 3.10 from [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
 IMPORTANT! Make sure to click "Add Python to Path" in the beginning of the installation. Like so:
+
 ![Add to Path](https://i.ibb.co/KV7pCsT/win-installer.png)
 
 ### Installation and Usage
