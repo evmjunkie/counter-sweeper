@@ -54,8 +54,8 @@ print(ANSI.PURPLE+r'''
  \    | \      / |     ||     ||  | |     ||  .  \
   \___|  \_/\_/  |_____||_____||__| |_____||__|\_|
 ''',ANSI.END)
-print("Made with love by oopsy.eth | Twitter: oopsyeth < don't follow me!")
-print("Donations welcome @ ENS or 0x7927B66B4bA7CA476DF41cD73b77685D9c95Fbf6")
+print("Made with love by evmjunkie.eth | Twitter: evmjunkie < don't follow me!")
+print("Donations welcome @ ENS or 0x7C66C0b1C351181fF33893ccd60d85B3709f04f6")
 print("")
 print("")
 
