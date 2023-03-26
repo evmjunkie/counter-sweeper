@@ -12,14 +12,9 @@
 
 Counter the sweeper on your wallet with your own sweeper provided in this repo. A simple to use help-yourself tool in understandable source code language.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Built With
 
 [![Python][Python]][PythonURL]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ### Prerequisites
 
@@ -39,11 +34,10 @@ IMPORTANT! Make sure to click "Add Python to Path" in the beginning of the insta
    ```
 2. Insert details of compromised wallet in the `config.json`
 3. Run the `CounterSweeper.py`
-   ```py
+  
+  ```py
    py counterSweeper.py
    ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- LICENSE -->
@@ -51,17 +45,10 @@ IMPORTANT! Make sure to click "Add Python to Path" in the beginning of the insta
 
 Distributed under the GNU Public License v3.0. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- CONTACT -->
 ## Contact
 
 EVMJunkie - [@evmjunkie](https://twitter.com/evmjunkie) - dope@evmjunkie.xyz
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
